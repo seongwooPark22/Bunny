@@ -20,8 +20,10 @@ The Result Screenshots are in the 'Screenshots' directory in the repository as y
 #### Average FPS
 - Attempt1
 ![Q1ResultScreenshot](./Screenshots/ScreenshotQ1-avgFPS1.png)
+
 - Attempt2
 ![Q1ResultScreenshot](./Screenshots/ScreenshotQ1-avgFPS2.png)
+
 - Attempt3
 ![Q1ResultScreenshot](./Screenshots/ScreenshotQ1-avgFPS3.png)
 
@@ -32,8 +34,10 @@ Average of 3 attempts : 563.340271 Average FPS
 #### Average FPS
 - Attempt1
 ![Q2ResultScreenshot](./Screenshots/ScreenshotQ2-avgFPS1.png)
+
 - Attempt2
 ![Q2ResultScreenshot](./Screenshots/ScreenshotQ2-avgFPS2.png)
+
 - Attempt3
 ![Q2ResultScreenshot](./Screenshots/ScreenshotQ2-avgFPS3.png)
 
@@ -41,10 +45,11 @@ Average of 3 attempts : 818.156534667 Average FPS
 
 ### Summary
 Q2's way is faster and more efficient than Q1's way.
+
 Q2 is better. (about 1.45 times)
 
 Q1 is using glVertex3f, and glNormal3f to transfer datas to GPU every frame,
 but Q2 is using VAO and VBOs to transfer datas to GPU before rendering process and reuse them.
 
-#### Please Check more detailed report on ecampus.
-I uploaded more detailed report on ecampus. please check that report.
+> **Please Check more detailed report on ecampus.**
+> I uploaded more detailed report on ecampus. please check that report.
