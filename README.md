@@ -14,7 +14,7 @@ The Result Screenshots are in the 'Screenshots' directory in the repository as y
 6. The program will be running and will display the result
 
 ## Result Screenshots
-
+> Since my labtop's screen is too small for 1280*1280, bottom parts of Screenshots are little bit cropped.
 ### Q1 - Results
 ![Q1ResultScreenshot](./Screenshots/ScreenshotQ1-main.png)
 #### Average FPS
